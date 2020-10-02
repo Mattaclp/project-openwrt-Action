@@ -17,8 +17,8 @@ on:
       - main
     paths:
       - 'config/project/ipq40xx/N1-project-openwrt.config'
-  schedule:
-    - cron: 02 15 * * *
+#  schedule:
+#    - cron: 02 15 * * *
 #  watch:
 #    types: started
 
