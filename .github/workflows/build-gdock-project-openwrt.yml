@@ -17,8 +17,8 @@ on:
       - main
     paths:
       - 'config/project/ipq40xx/gdock-project-openwrt.config'
-  schedule:
-    - cron: 07 10 * * *
+#  schedule:
+#    - cron: 07 10 * * *
 #  watch:
 #    types: started
 
